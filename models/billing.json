@@ -1,0 +1,47 @@
+[
+{
+"add1":"123 Maiden Lane",
+"add2": "Apartment 123",
+"city": "Pleasantville",
+"state": "MA",
+"zip": 11234,
+"phoneNo": "415-333-5555",
+"custID": 123
+},
+{
+"add1":"124 Verily Ave",
+"add2": "Suite 3030",
+"city": "Calm",
+"state": "ND",
+"zip": 40404,
+"phoneNo": "713-344-5666",
+"custID": 124
+},
+{
+"add1":"125 Shoreview Rd",
+"add2": "Apt. 707",
+"city": "Rockville",
+"state": "MD",
+"zip": 30334,
+"phoneNo": "718-222-5111",
+"custID": 125
+},
+{
+"add1":"126 Humboldt Ave S",
+"add2": "#4450",
+"city": "Hackville",
+"state": "AL",
+"zip": 80770,
+"phoneNo": "315-311-5225",
+"custID": 126
+},
+{
+"add1":"127 Union Turnpike",
+"add2": "Section 777",
+"city": "NYC",
+"state": "NY",
+"zip": 11020,
+"phoneNo": "212-333-5555",
+"custID": 127
+}
+]

@@ -1,0 +1,20 @@
+[
+{
+"add1":"1122 Palo Alto Ave",
+"add2": "Module 3211",
+"city": "Berkeley",
+"state": "CA",
+"zip": 90134,
+"phoneNo": "415-233-4555",
+"custID": 123
+},
+{
+"add1":"127 Hewlett St",
+"add2": "Crashpad 17",
+"city": "Storm",
+"state": "OH",
+"zip": 30404,
+"phoneNo": "203-366-5766",
+"custID": 127
+}
+ ]
